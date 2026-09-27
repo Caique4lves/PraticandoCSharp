@@ -9,6 +9,7 @@ Durante os exercícios, pratiquei e entendi:
 - Lógica de programação.
 - Boas práticas com encapsulamento.
 - Diferença entre encapsulamento e acoplamento.
+- Utilização de LAMBDA e LINQ.
 
 ## Organização
 
