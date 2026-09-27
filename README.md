@@ -4,7 +4,7 @@ Este repositório reúne exercícios que desenvolvi durante meus estudos de C# n
 
 Cada pasta contém pequenos projetos focados em um conceito. Os arquivos `.csproj` e `.slnx` permitem abrir os exercícios correspondentes no Visual Studio.
 
-Neste repositório, pratico:
+Neste repositório, pratiquei:
 
 - Encapsulamento
 - Herança
