@@ -4,8 +4,8 @@ Este repositório reúne exercícios sobre herança, um conceito importante na o
 
 Durante os exercícios, pratiquei e entendi:
 
-- Quando utilizar herança, exemplo: Classe base Funcionario, podendo ter subclasses que herdem de Funcionario, subclasses podem ser desde um programador até diretor de uma empresa.
-- Utilizar Override para sobrescrever métodos virtuais herdados de uma classe base utilizando ou não a palavra chave **base**. Ao usar a **base** trazemos o comportamento da classe base à subclasse, caso não usemos, estaremos alterando o comportamento somente.
+- Quando utilizar herança, exemplo: Classe base Funcionario, podendo ter subclasses que herdem de Funcionario, subclasses podem ser desde um programador até diretor de uma empresa. Ou seja, se ambos são funcionários, eles podem herdar da classe base.
+- Utilizar Override para sobrescrever métodos virtuais herdados de uma classe base utilizando ou não a palavra chave **base**. Ao usar **base** estaremos trazedo o comportamento da classe base à subclasse, caso não usemos, estaremos alterando o comportamento somente.
 - Boas práticas com herança.
 - Regra de negócio.
 
